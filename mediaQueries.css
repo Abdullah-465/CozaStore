@@ -1,0 +1,349 @@
+@media screen and (min-width: 453px) { 
+    .dropdown-menu1 {
+      display: none;
+      position: absolute;
+      top: 60px;
+      right: 5%;
+      background-color: #fff;
+      padding: 10px;
+      box-shadow: 0px 12px 26px 0px rgba(0,0,0,0.2);
+      border-radius: 4px;
+      z-index: 1;
+    }
+  }
+  
+  @media screen and (max-width: 453px) {
+  
+      .dropdown-menu1 {
+          display: none;
+          position: absolute;
+          top: 60px;
+          right: -250%;
+          background-color: #fff;
+          padding: 10px;
+          box-shadow: 0px 12px 26px 0px rgba(0,0,0,0.2);
+          border-radius: 4px;
+          z-index: 1;
+        }
+  }
+  @media screen and (min-width : 850px) {
+    
+    .head1{
+        font-size: 2.375rem !important;
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 1000;
+        font-size: 3rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+}
+@media (min-width : 795px) and (max-width : 850px) {
+    
+    .head1{
+        font-size: 2.0rem !important;
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 500;
+        font-size: 3rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+}
+@media (min-width : 662px) and (max-width : 795px)  {
+    
+    .head1{
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 300;
+        font-size: 2.4rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+}
+@media (min-width : 560px) and (max-width : 662px)  {
+    
+    .head1{
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 300;
+        font-size: 2rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+    .drag-btn{
+        font-size: 0.8rem;
+    }
+}
+@media (min-width : 455px) and (max-width : 560px)  {
+    
+    .head1{
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 300;
+        font-size: 1.5rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+    .drag-btn{
+        font-size: 0.7rem;
+    }
+}
+@media (min-width : 360px) and (max-width : 455px)  {
+    
+    .head1{
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 300;
+        font-size: 1.2rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+    
+    .drag-btn{
+        font-size: 0.6rem;
+    }
+}
+@media (min-width : 315px) and (max-width : 360px)  {
+    
+    .head1{
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 300;
+        font-size: 1rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+    
+    .drag-btn{
+        font-size: 0.5rem;
+    }
+}
+@media (min-width : 262px) and (max-width : 315px)  {
+    
+    .head1{
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 300;
+        font-size: 0.8rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+    
+    .drag-btn{
+        font-size: 0.3rem;
+    }
+}
+@media (min-width : 225px) and (max-width : 262px)  {
+    
+    .head1{
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 300;
+        font-size: 0.6rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+    
+    .drag-btn{
+        font-size: 0.25rem;
+    }
+}
+@media screen and (max-width : 225px)  {
+    
+    .head1{
+        font-family: 'Poppins' !important ;
+        line-height: 1;
+        font-weight: 300;
+        font-size: 0.4rem !important;
+        color: #000;
+        color: hsla(0, 0, 13%, 1);
+    }
+    
+    .drag-btn{
+        font-size: 0.15rem;
+    }
+}
+@media screen and (min-width: 1000px) {
+   
+    .card{
+        max-width: 28%;
+        margin: 1rem;
+        border-radius: 0 !important ;
+        
+    }
+  }
+  
+  @media (min-width: 800px) and (max-width: 1000px) {
+   
+    .card{
+        max-width: 28%;
+        margin: 1rem;
+        border-radius: 0 !important ;
+        
+    }
+  }
+  @media (min-width: 630px) and (max-width: 800px) {
+   
+    .card{
+        max-width: 45%;
+        margin: 1rem;
+        border-radius: 0 !important ;
+        
+    }
+  }
+  @media screen and (min-width: 400px) {
+    .worp{
+        max-width: 35rem;
+        padding: 7rem 4rem !important;
+    }
+}
+@media screen and (min-width: 756px) {
+
+    .Cnt-form{
+        margin-top: 8rem;
+        margin-bottom: 8rem;
+    }
+  }
+@media screen and (max-width: 756px) {
+
+    .Cnt-form{
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+    }
+  }
+  @media screen and (max-width: 314px) {
+    .btn-pair{
+        display: flex;
+        flex-direction: column;
+    }
+    .butto{
+        margin-bottom: 0.6rem;
+    }
+}
+@media screen and (min-width: 800px) {
+    .btn-pair{
+        display: flex;
+        flex-direction: column;
+    }
+    .butto{
+        margin-bottom: 0.6rem;
+    }
+}
+@media (min-width: 630px) and (max-width: 658px) {
+    .btn-pair{
+        display: flex;
+        flex-direction: column;
+    }
+    .butto{
+        margin-bottom: 0.6rem;
+    }
+}
+@keyframes slide-in {
+    from {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+     
+  .witish{
+    top: 10%;
+    left: 29%;
+    padding: 20px;
+    max-width: 16rem;
+    max-height: 17rem;
+    background: hsla(0, 0%, 100%, 0.5);
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+    
+    .witish{
+        top: 8%;
+        left: 29%;
+        padding: 10px;
+        max-width: 16rem;
+        max-height: 17rem;
+        background: hsla(0, 0%, 100%, 0.5);
+    }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+   
+.witish{
+  top: 19%;
+  left: 31%;
+  padding: 40px;
+  max-width: 18rem;
+  max-height: 17rem;
+  background: hsla(0, 0%, 100%, 0.5);
+}
+}
+@media (min-width: 510px) and (max-width: 768px) {
+   
+.witish{
+  top: 14%;
+  left: 31%;
+  padding: 14px;
+  max-width: 18rem;
+  max-height: 17rem;
+  background: hsla(0, 0%, 100%, 0.5);
+}
+}
+@media (min-width: 400px) and (max-width: 510px) {
+   
+.witish{
+  top: 8%;
+  left: 26%;
+  padding: 12px;
+  max-width: 18rem;
+  max-height: 17rem;
+  background: hsla(0, 0%, 100%, 0.5);
+}
+}
+@media (min-width: 363px) and (max-width: 400px) {
+   
+.witish{
+  top: 8%;
+  left: 26%;
+  padding: 8px;
+  max-width: 18rem;
+  max-height: 17rem;
+  background: hsla(0, 0%, 100%, 0.5);
+}
+.witish .fs-5{
+    font-size: 1rem !important;
+}
+}
+@media (min-width: 280px) and (max-width: 363px) {
+   
+.witish{
+  top: 8%;
+  left: 22%;
+  padding: 8px;
+  max-width: 18rem;
+  max-height: 17rem;
+  background: hsla(0, 0%, 100%, 0.5);
+}
+.witish .fs-5 , .fs-6{
+    font-size: 0.8rem !important;
+}
+}
+@media screen and (max-width: 280px) {
+   
+.witish{
+  top: 4%;
+  left: 16%;
+  padding: 8px;
+  max-width: 18rem;
+  max-height: 17rem;
+  background: hsla(0, 0%, 100%, 0.5);
+}
+.witish .fs-5 , .fs-6{
+    font-size: 0.6rem !important;
+}
+}

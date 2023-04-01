@@ -1,0 +1,38 @@
+ 
+  .profile {
+    position: relative;
+  }
+
+  .dropdown-menu1.active {
+    display: block;
+  }
+  
+  .dropdown-menu1 li {
+    margin-bottom: 10px;
+    padding: 8px 16px;
+    font-size: 14px;
+    text-decoration: none;
+    list-style: none;
+    line-height: 1.5;
+  }
+  
+  .dropdown-menu1 li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .dropdown-menu li hr {
+    margin: 5px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+  }
+  
+ 
+  .fluid img{
+    max-width: 90%;
+    max-height: 90%;
+  }
+.toast2{
+  top: 34%;
+  left: 34% ;
+}

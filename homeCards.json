@@ -1,0 +1,93 @@
+[
+    {
+        "id": 11,
+        "image": "homeCardsImages/1.jpg",
+        "type": "Leather Jacket",
+        "price": 299.99,
+        "brand": "AllSaints"
+    },
+    {
+        "id": 12,
+        "image": "homeCardsImages/2.jpg",
+        "type": "Hoodie",
+        "price": 59.99,
+        "brand": "Champion"
+    },
+    {
+        "id": 13,
+        "image": "homeCardsImages/3.jpg",
+        "type": "Sneakers",
+        "price": 129.99,
+        "brand": "Nike"
+    },
+    {
+        "id": 14,
+        "image": "homeCardsImages/4.jpg",
+        "type": "Dress",
+        "price": 89.99,
+        "brand": "Reformation"
+    },
+    {
+        "id": 15,
+        "image": "homeCardsImages/5.jpg",
+        "type": "Jeans",
+        "price": 69.99,
+        "brand": "Levi's"
+    },
+    {
+        "id": 16,
+        "image": "homeCardsImages/6.jpg",
+        "type": "Sunglasses",
+        "price": 199.99,
+        "brand": "Ray-Ban"
+    },
+    {
+        "id": 17,
+        "image": "homeCardsImages/7.jpg",
+        "type": "T-Shirt",
+        "price": 29.99,
+        "brand": "H&M"
+    },
+    {
+        "id": 18,
+        "image": "homeCardsImages/8.jpg",
+        "type": "Watch",
+        "price": 599.99,
+        "brand": "Rolex"
+    },
+    {
+        "id": 19,
+        "image": "homeCardsImages/9.jpg",
+        "type": "Boots",
+        "price": 149.99,
+        "brand": "Dr. Martens"
+    },
+    {
+        "id": 110,
+        "image": "homeCardsImages/10.jpg",
+        "type": "shirt",
+        "price": 49.99,
+        "brand": "Zara"
+    },
+    {
+        "id": 111,
+        "image": "homeCardsImages/11.jpg",
+        "type": "Blouse",
+        "price": 79.99,
+        "brand": "Equipment"
+    },
+    {
+        "id": 112,
+        "image": "homeCardsImages/12.jpg",
+        "type": "Sweater",
+        "price": 119.99,
+        "brand": "Ralph Lauren"
+    },
+    {
+        "id": 113,
+        "image": "homeCardsImages/13.jpg",
+        "type": "Jumpsuit",
+        "price": 99.99,
+        "brand": "Free People"
+    }
+]

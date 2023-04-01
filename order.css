@@ -1,0 +1,13 @@
+.ordr img{    
+    max-width: 8rem;
+    max-height: 12rem;
+}
+.ordr{
+    max-width: 40rem !important;
+}
+.text-type{
+    font-family: 'Poppins-Bold';
+}
+.orders{
+    margin-bottom: 11rem  !important;
+}

@@ -1,0 +1,93 @@
+[
+    {
+        "id": 31,
+        "image": "clotheImages/1.jpg",
+        "brand": "Nike",
+        "type": "T-Shirt",
+        "price": 29.99
+    },
+    {
+        "id": 32,
+        "image": "clotheImages/2.jpg",
+        "brand": "Adidas",
+        "type": "Hoodie",
+        "price": 49.99
+    },
+    {
+        "id": 33,
+        "image": "clotheImages/3.jpg",
+        "brand": "Puma",
+        "type": "Joggers",
+        "price": 39.99
+    },
+    {
+        "id": 34,
+        "image": "clotheImages/4.jpg",
+        "brand": "Under Armour",
+        "type": "Polo",
+        "price": 24.99
+    },
+    {
+        "id": 35,
+        "image": "clotheImages/5.jpg",
+        "brand": "Levi's",
+        "type": "Jeans",
+        "price": 79.99
+    },
+    {
+        "id": 36,
+        "image": "clotheImages/6.jpg",
+        "brand": "Calvin Klein",
+        "type": "Boxer Briefs",
+        "price": 19.99
+    },
+    {
+        "id": 37,
+        "image": "clotheImages/7.jpg",
+        "brand": "Gucci",
+        "type": "Sunglasses",
+        "price": 149.99
+    },
+    {
+        "id": 38,
+        "image": "clotheImages/8.jpg",
+        "brand": "Versace",
+        "type": "Belt",
+        "price": 99.99
+    },
+    {
+        "id": 39,
+        "image": "clotheImages/9.jpg",
+        "brand": "The North Face",
+        "type": "Jacket",
+        "price": 159.99
+    },
+    {
+        "id": 310,
+        "image": "clotheImages/10.jpg",
+        "brand": "Tommy Hilfiger",
+        "type": "Sweatshirt",
+        "price": 69.99
+    },
+    {
+        "id": 311,
+        "image": "clotheImages/11.jpg",
+        "brand": "Ralph Lauren",
+        "type": "Polo",
+        "price": 34.99
+    },
+    {
+        "id": 312,
+        "image": "clotheImages/12.jpg",
+        "brand": "H&M",
+        "type": "T-Shirt",
+        "price": 9.99
+    },
+    {
+        "id": 313,
+        "image": "clotheImages/13.jpg",
+        "brand": "Zara",
+        "type": "Blouse",
+        "price": 39.99
+    }
+]

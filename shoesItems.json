@@ -1,0 +1,93 @@
+[
+    {
+        "id": 41,
+        "image": "shoesImages/1.jpg",
+        "type": "Running Shoes",
+        "price": 99.99,
+        "brand": "Nike"
+    },
+    {
+        "id": 42,
+        "image": "shoesImages/2.jpg",
+        "type": "Basketball Shoes",
+        "price": 119.99,
+        "brand": "Adidas"
+    },
+    {
+        "id": 43,
+        "image": "shoesImages/3.jpg",
+        "type": "Sneakers",
+        "price": 79.99,
+        "brand": "Puma"
+    },
+    {
+        "id": 44,
+        "image": "shoesImages/4.jpg",
+        "type": "Hiking Shoes",
+        "price": 149.99,
+        "brand": "Columbia"
+    },
+    {
+        "id": 45,
+        "image": "shoesImages/5.jpg",
+        "type": "Casual Shoes",
+        "price": 69.99,
+        "brand": "Converse"
+    },
+    {
+        "id": 46,
+        "image": "shoesImages/6.jpg",
+        "type": "Dress Shoes",
+        "price": 129.99,
+        "brand": "Calvin Klein"
+    },
+    {
+        "id": 47,
+        "image": "shoesImages/7.jpg",
+        "type": "Sandals",
+        "price": 39.99,
+        "brand": "Reef"
+    },
+    {
+        "id": 48,
+        "image": "shoesImages/8.jpg",
+        "type": "Water Shoes",
+        "price": 59.99,
+        "brand": "Merrell"
+    },
+    {
+        "id": 49,
+        "image": "shoesImages/9.jpg",
+        "type": "Skate Shoes",
+        "price": 89.99,
+        "brand": "Vans"
+    },
+    {
+        "id": 410,
+        "image": "shoesImages/10.jpg",
+        "type": "Trail Running Shoes",
+        "price": 129.99,
+        "brand": "Salomon"
+    },
+    {
+        "id": 411,
+        "image": "shoesImages/11.jpg",
+        "type": "Snow Boots",
+        "price": 179.99,
+        "brand": "Sorel"
+    },
+    {
+        "id": 412,
+        "image": "shoesImages/12.jpg",
+        "type": "Work Boots",
+        "price": 139.99,
+        "brand": "Timberland"
+    },
+    {
+        "id": 413,
+        "image": "shoesImages/13.jpg",
+        "type": "Flip Flops",
+        "price": 19.99,
+        "brand": "Havaianas"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "id": 21,
+        "image": "jeansImages/1.jpg",
+        "type": "Slim Fit",
+        "price": 49.99,
+        "brand": "Levi's"
+    },
+    {
+        "id": 22,
+        "image": "jeansImages/2.jpg",
+        "type": "Bootcut",
+        "price": 59.99,
+        "brand": "Wrangler"
+    },
+    {
+        "id": 23,
+        "image": "jeansImages/3.jpg",
+        "type": "Straight Leg",
+        "price": 39.99,
+        "brand": "Lee"
+    },
+    {
+        "id": 24,
+        "image": "jeansImages/4.jpg",
+        "type": "Skinny",
+        "price": 69.99,
+        "brand": "Diesel"
+    },
+    {
+        "id": 25,
+        "image": "jeansImages/5.jpg",
+        "type": "Relaxed Fit",
+        "price": 49.99,
+        "brand": "Calvin Klein"
+    },
+    {
+        "id": 26,
+        "image": "jeansImages/6.jpg",
+        "type": "Slim Straight",
+        "price": 79.99,
+        "brand": "G-Star RAW"
+    },
+    {
+        "id": 27,
+        "image": "jeansImages/7.jpg",
+        "type": "Tapered",
+        "price": 89.99,
+        "brand": "Nudie Jeans"
+    },
+    {
+        "id": 28,
+        "image": "jeansImages/8.jpg",
+        "type": "Loose Fit",
+        "price": 59.99,
+        "brand": "Guess"
+    },
+    {
+        "id": 29,
+        "image": "jeansImages/9.jpg",
+        "type": "Bootcut",
+        "price": 69.99,
+        "brand": "Lucky Brand"
+    },
+    {
+        "id": 210,
+        "image": "jeansImages/10.jpg",
+        "type": "Straight Leg",
+        "price": 49.99,
+        "brand": "Gap"
+    },
+    {
+        "id": 211,
+        "image": "jeansImages/11.jpg",
+        "type": "Skinny",
+        "price": 99.99,
+        "brand": "Acne Studios"
+    },
+    {
+        "id": 212,
+        "image": "jeansImages/12.jpg",
+        "type": "Slim Fit",
+        "price": 79.99,
+        "brand": "Tommy Hilfiger"
+    },
+    {
+        "id": 213,
+        "image": "jeansImages/13.jpg",
+        "type": "Relaxed Fit",
+        "price": 69.99,
+        "brand": "Ralph Lauren"
+    }
+]

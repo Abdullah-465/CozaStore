@@ -1,0 +1,325 @@
+.active{
+    font-family: 'Comic Sans MS' !important; 
+}
+
+.fa-cart-shopping{
+    color: black;
+}
+ul li a {
+    margin-left: 2rem;
+    
+}
+ul li a:hover  {
+    transform: scale(1.1);
+    color: hsla(353, 100%, 78%, 1) !important;
+}
+.dropdown-menu li a:hover{
+    transform: scale(1) !important;
+}
+.hov :hover{
+    transform: scale(1.1);
+    color: hsla(353, 100%, 78%, 1) !important;
+
+}
+.dropup button{
+    border: 2px solid white;
+    border-radius: 0 !important;
+    color: white !important;
+}
+.carousel-item  {
+    max-height: 65vh;
+    background-size: cover;
+    -webkit-background-size: cover ;
+}
+.c1{
+    max-width: 92vw;
+}
+
+.drag-btn{
+    color: hsla(0, 0, 100%, 1);
+    background-color: hsla(353, 100%, 78%, 1);
+    padding: auto 7px;
+    border: none;
+}
+.drag-btn:hover{
+    background-color: black;
+
+}
+
+    .drag{
+    top: 20%;
+    left: 8%;
+}
+.carousel-item img{
+    object-fit: cover;
+}
+.carousel-item::before{
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: #000;
+    opacity: 0.1;
+}
+.slider-btn .btn {
+    background-color: white;
+    color: #000;
+    padding: 0.8rem 1rem;
+    font-size: 1rem;
+}
+.card-img-top{
+    border-radius: 0 !important;
+}
+.modal{
+    font-family: 'Comic Sans MS' !important; 
+}
+.subm{
+    border-radius: 0 !important;
+}
+.subm:hover {
+    transform: scale(1.04);
+    background-color: #000 !important;
+    color: white !important;
+    border-radius: 0 !important;
+}
+.subm1:hover {
+    transform: scale(1.04);
+    background-color: #000 !important;
+    color: white !important;
+    border-radius: 0 !important;
+}
+
+
+ /* ///////////////  Image Contact Us  ////////////// */
+
+ .container1 {
+    position: relative;
+    max-height: 40vh; /* set maximum height to 25% of viewport height */
+    overflow: hidden; 
+  }
+  
+  .img-responsive {
+    width: 100% !important;
+    min-height: 100% !important;
+    opacity: 0.6;
+    
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .overlay h1 {
+    color: #000;
+    font-family:'Comic Sans MS' !important ;
+    font-size: 3rem;
+}
+.siz1 {
+    max-width: 25rem !important;
+}
+.input-group input {
+    border-radius:  0 !important;
+}
+.input-group i{
+    font-size: 1.5rem;
+    border-radius: 0 !important;
+}
+.txt{
+    border-radius: 0 !important;
+    height: 136px;
+}
+.d-grid button{
+    max-width: 25rem;
+    font-family:'Comic Sans MS' !important ;
+    padding: 0.8rem;
+}
+.d-grid button:hover{
+    background-color: white;
+    font-family:'Comic Sans MS' !important ;
+    color: black;
+}
+.worp{
+    max-width: 35rem;
+}
+
+.worp .h2{
+    font-family:'Poppins-Regular' !important ;
+}
+.pad{
+    padding: 9rem;
+}
+.text-bg{
+    background-color: hsla(353, 100%, 78%, 1) !important;
+    border: 1px solid hsla(353, 100%, 78%, 1) !important;
+    color: hsla(0, 0, 100%, 1) !important;
+}
+.text-bg:hover{
+    background-color: black !important;
+    border: 1px solid black !important;
+}
+.brd:hover{
+    background-color: hsla(353, 100%, 78%, 1) !important;
+    border: 1px solid hsla(353, 100%, 78%, 1);
+}
+.clr1{
+    color: white !important;
+}
+footer{
+    min-height: 20rem;
+    width: 100%;
+    line-height: 2.2rem;
+    margin-top: 5rem;
+    background-color: #000;
+    color: white;
+    margin-bottom: 0 !important;
+}
+.kolor{
+    color: #b2b2b2;
+}
+.clr{
+    color: hsla(353, 100%, 78%, 1) !important;
+    font-weight: bolder;
+}
+.kolor3{
+    cursor: pointer;
+}
+.kolor3:hover{
+    color:hsla(353, 100%, 78%, 1) ;
+}
+.kolor1{
+    font-weight: 500;
+}
+.hvo:hover{
+    color: hsla(353, 100%, 78%, 1);
+}
+
+.imgHeight{
+    min-height: 15rem !important;
+}
+
+#cart:hover{
+    cursor: pointer;
+}
+
+
+.cart-image{
+    width: 100%;
+    height: 90px;
+    width: 100px;
+}
+.cart-line{
+    line-height: 1.6rem;
+}
+.clear{
+    background-color: hsla(0, 0, 13%, 1);
+    color: hsla(0, 0, 100%, 1);
+    font-family: 'Poppins', sans-serif;
+}
+.clear:hover{
+    background-color: hsla(353, 100%, 78%, 1);
+    color: white;
+    border: 1px solid hsla(353, 100%, 78%, 1);
+}
+.cart-adds{
+    max-width: 18rem;
+}
+.hr{
+    border-color: #000 !important;
+}
+#categ,.poppin{
+    font-family: 'Poppins', sans-serif;
+}
+.caton:hover {
+
+    text-decoration: none;
+}
+.cont a:hover {
+    cursor: pointer;
+    
+}
+.cont a:visited{
+    text-decoration: underline !important;
+}
+.categ-img{
+    max-width: 300px;
+    max-height: 300px;
+    font-family:'Comic Sans MS' !important ;
+    box-shadow:  0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+.categ-img:hover{
+    transform: scale(1.06);
+    cursor: pointer;
+    box-shadow:  0 1rem 1rem rgba(0, 0, 0, 0.15);
+    font-family:'Comic Sans MS' !important ;
+}
+.img-size{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 70%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    color: #fff; /* Text color */
+    padding: 10px;
+  }
+  
+
+#spin{
+    font-size:10rem !important;
+    margin-top: 10%;
+}  
+.size{
+    font-size: 1.2rem !important;
+}
+.btm {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 1px solid black !important;
+    outline: none !important; /* Optional - removes the default focus border */
+    border-radius: 0 !important;
+  }
+  .underline{
+    text-decoration: underline;
+  }
+  .underline1{
+    text-decoration: underline;
+  }
+  .underline:hover{
+    cursor: pointer;
+    color: hsla(353, 100%, 78%, 1);
+  }
+  .nav-img{
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    border: 0 !important;
+    cursor: pointer;
+  }
+  .nav-img1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 0 !important;
+    cursor: pointer;
+  }
+  .badg{
+    top: 10%;
+    left: 90% !important;
+  }
